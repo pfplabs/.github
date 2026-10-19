@@ -1,1 +1,1 @@
-![pizza](img/pizza-time.gif)
+![pizza](img/pizza-time.png)
